@@ -13,11 +13,22 @@ Agora pensando no front end, também tenho praticado dedicadamente o framework *
 
 ### Tecnologias utilizadas
 #### Backend
-* Nodejs;
-* Express-js;
-* MongoDB/Atlas com Mongoose;
-* JWT (JSON Web Token);
-* Multer.
+<table>
+  <tr>
+    <td>Nodejs</td>
+    <td>Express-js</td>
+    <td>Mongoose</td>
+    <td>JWT</td>
+    <td>Multer</td>
+  </tr>
+  <tr>
+    <td>19.2</td>
+    <td>4.18</td>
+    <td>6.8</td>
+    <td>9.0</td>
+    <td>1.4</td>
+  <tr>
+</table>
 
 Gostaria de ver o repositório do Front end deste app?
 [Clique aqui](https://github.com/LucasBargas/lbs_photo_gallery_frontend)
