@@ -30,5 +30,37 @@ Agora pensando no front end, também tenho praticado dedicadamente o framework *
   <tr>
 </table>
 
+### Como executar este Backend
+
+#### Pré-requisitos
+Instalar o Nodejs
+
+#### Clone o repositório
+```bash
+git clone https://github.com/LucasBargas/lbs_photo_gallery_backend.git
+```
+
+#### Entre na pasta
+```bash
+cd lbs_photo_gallery_backend
+```
+
+#### Instale as dependências
+```bash
+npm install
+```
+
+#### Configure as variáveis de ambiente
+```bash
+# Crie um arquivo .env e passe os valores
+MONGO_URL=value
+JWT_SECRET=value
+```
+
+#### Execute o App
+```bash
+npm start
+```
+
 Gostaria de ver o repositório do Front end deste app?
 [Clique aqui](https://github.com/LucasBargas/lbs_photo_gallery_frontend)
