@@ -62,5 +62,12 @@ JWT_SECRET=value
 npm start
 ```
 
+# Autor
+Lucas Bargas da Silva
+</br>
+<https://projetoslucasbargas.vercel.app/>
+</br>
+<https://www.linkedin.com/in/lucas-bargas/>
+
 Gostaria de ver o repositório do Front end deste app?
 [Clique aqui](https://github.com/LucasBargas/lbs_photo_gallery_frontend)
