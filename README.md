@@ -33,7 +33,7 @@ Agora pensando no front end, também tenho praticado dedicadamente o framework *
 ### Como executar este Backend
 
 #### Pré-requisitos
-Instalar o Nodejs
+Possuir o Nodejs instalado.
 
 #### Clone o repositório
 ```bash
